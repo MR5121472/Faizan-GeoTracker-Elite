@@ -22,7 +22,7 @@
 
 ```bash
 pkg install python git -y
-git clone https://github.com/YourUsername/Faizan-Stealth-Tracker
+git clone https://github.com/MR5121472/Faizan-GeoTracker-Elite.git
 cd Faizan-Stealth-Tracker
 pip install flask
 python main.py
